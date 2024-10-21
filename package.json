@@ -1,0 +1,25 @@
+{
+  "name": "gulp-frontend",
+  "version": "1.0.0",
+  "description": "Сборка Gulp для фронтенда",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbaevB/gulp-frontend.git"
+  },
+  "author": "AbaevB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbaevB/gulp-frontend/issues"
+  },
+  "homepage": "https://github.com/AbaevB/gulp-frontend#readme",
+  "devDependencies": {
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
+  }
+}

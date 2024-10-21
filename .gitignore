@@ -1,4 +1,4 @@
-node_modnode_modules
+node_modules
 package-lock.json
 yarn.lock
-process.jsonules
+process.json
